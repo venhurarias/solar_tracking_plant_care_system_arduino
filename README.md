@@ -130,3 +130,6 @@ This project demonstrates a simple integration of:
 - automation using Arduino  
 
 It serves as a prototype for **smart agriculture**, **solar-powered plant care**, and **embedded system applications**.
+
+## Summary
+![Wiring Diagram](images/wiring_diagram.jpg)
