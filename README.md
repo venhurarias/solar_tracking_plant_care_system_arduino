@@ -83,7 +83,7 @@ This helps regulate the environment for plants, especially in controlled setups.
 - 1-Channel Relay Module  
 - Small Solar Panel (6V)  
 - Li-ion Battery (3.7V)  
-- Charging/Protection Modules  
+- Charging/Protection Modules (CN3065)
 
 ---
 
